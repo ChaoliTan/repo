@@ -52,7 +52,7 @@
 
 
 * I: O(n), S = O(2^n), T = O(2^n) 
-  * [131. Palindrome Partitioning](leetcode/sort/131.Palindrome-Partitioning.md)
+  * [131. Palindrome Partitioning](leetcode/sort/131.Palindrome-Partitioning.md) (In Search As Well)
 
 
 * I: O(m + n), S = O(mn), T = O(mn) 
@@ -91,46 +91,3 @@
 * I: O(n), S = O(n\*2^n), T = (n^2\*2^n)
   * [980. Unique Paths III](leetcode/sort/980.Unique-Paths-III.md)
 
-
-  
-
-
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-  
-
-
-  
-
-
-
-
-
-
-  
-
-
-  
