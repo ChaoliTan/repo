@@ -15,8 +15,8 @@
 
 
   
-  * [Math](leetcode/math/) TODO
-  * [String](leetcode/string/) TODO
+  * [Math](leetcode/math/) 
+  * [String](leetcode/string/) 
   * [Sort](leetcode/sort/) 
   * [Design](leetcode/design/)
 
