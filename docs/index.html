@@ -25,7 +25,6 @@
       name: 'leetcode',
       repo: '',
       loadSidebar: true,
-      coverpage: false,
       loadNavbar: true,
       subMaxLevel: 6,
       search: 'auto',
@@ -43,6 +42,12 @@
         // 搜索标题的最大程级, 1 - 6
         depth: 3
       },
+      pagination: {
+        previousText: 'Previous',
+        nextText: 'Next',
+        crossChapter: true,
+        crossChapterText: true
+      },
       tabs: {
         persist    : true,      // default
         sync       : true,      // default
@@ -52,10 +57,13 @@
       }
     }
   </script>
+  <!-- 页面统计 -->
   <script src="//unpkg.com/docsify-count/dist/countable.js"></script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
   <!-- docsify-tabs (latest v1.x.x) -->
   <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
+  <!-- pagination -->>
+  <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
 </body>
 </html>
