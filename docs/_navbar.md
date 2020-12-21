@@ -1,2 +1,2 @@
 <!-- * [Cover](/) -->
-* [Home](/Home)
+* [Home](/home)
