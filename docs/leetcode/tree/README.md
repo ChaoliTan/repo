@@ -37,8 +37,8 @@
     * [543. Diameter of Binary Tree](leetcode/tree/543.Diameter-of-Binary-Tree.md)
 
 * Common Ancestor
-  * [236. Lowest Common Ancestor of a Binary Tree](236.Lowest-Common-Ancestor-of-a-Binary-Tree.md)
-  * [235. Lowest Common Ancestor of a Binary Search Tree](235.Lowest-Common-Ancestor-of-a-Binary-Search-Tree.md)
+  * [236. Lowest Common Ancestor of a Binary Tree](leetcode/tree/236.Lowest-Common-Ancestor-of-a-Binary-Tree.md)
+  * [235. Lowest Common Ancestor of a Binary Search Tree](leetcode/tree/235.Lowest-Common-Ancestor-of-a-Binary-Search-Tree.md)
 
 * Serialize and Deserialize
   * [297. Serialize and Deserialize Binary Tree](leetcode/tree/297.Serialize-and-Deserialize-Binary-Tree.md)
