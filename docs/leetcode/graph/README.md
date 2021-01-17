@@ -187,7 +187,7 @@ A ***matching\*** in a graph is a set of edges that does not have common vertice
 * weighted shortest path
   * [743. Network Delay Time](leetcode/graph/743.Network-Delay-Time.md) (BFS/DFS/Dijkstra/Bellman Ford SSSP/Floyd-Warshall all shortest paths)
   * [787. Cheapest Flights Within K Stops](leetcode/graph/787.Cheapest-Flights-Within-K-Stops.md) (DFS/BFS/Bellman Ford)
-  * [1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance](1334.Find-the-City-With-the-Smallest-Number-of-Neighbors-at-a-Threshold-Distance.md) (Floyd-Warshall/Dijkstra)
+  * [1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance](leetcode/graph/1334.Find-the-City-With-the-Smallest-Number-of-Neighbors-at-a-Threshold-Distance.md) (Floyd-Warshall/Dijkstra)
 
 * Eulerian path
   * [332. Reconstruct Itinerary](leetcode/graph/332.Reconstruct-Itinerary.md) (DFS)
