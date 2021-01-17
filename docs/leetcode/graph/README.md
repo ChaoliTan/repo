@@ -202,7 +202,7 @@ A ***matching\*** in a graph is a set of edges that does not have common vertice
   * []
 
 * Minimum Spanning Tree
-  * [1489. Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](1489.Find-Critical-and-Pseudo-Critical-Edges-in-Minimum-Spanning-Tree.md) (Prim/Kruskal)
+  * [1489. Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](leetcode/graph/1489.Find-Critical-and-Pseudo-Critical-Edges-in-Minimum-Spanning-Tree.md) (Prim/Kruskal)
 
 
 
