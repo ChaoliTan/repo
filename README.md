@@ -1,4 +1,4 @@
 # Welcome 
 
-Visit address: [Welcome Home](https://chaolitan.github.io/leet-code/#/home)
+Visit address: [Welcome Home](https://chaolitan.github.io/repo/#/home)
 
